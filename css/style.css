@@ -843,6 +843,7 @@ blockquote p {
   }
   a.Btn > li:hover {
     border-right-color: #333;
+    border-left-color: #333;
   }
   a.Btn.active > li {
     border-right-color: #333;
