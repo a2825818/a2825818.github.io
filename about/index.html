@@ -4,12 +4,32 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>關於作者 | Eli&#39;s Blog</title>
+  <!-- <title>關於作者 | Eli&#39;s Blog</title> -->
   
   
   <!--link rel="stylesheet" href="//cdn.jsdelivr.net/highlight.js/9.10.0/styles/github-gist.min.css"-->
   <link rel="stylesheet" href="//cdn.jsdelivr.net/highlight.js/9.10.0/styles/github-gist.min.css">
   <link rel="stylesheet" href="/css/style.css">
+
+  <!-- COMMON TAGS -->
+  <meta charset="utf-8">
+  <title>關於作者 | Eli&#39;s Blog</title>
+  <!-- Search Engine -->
+  <meta name="description" content="Eli 關於前端技術，寫作，分享的的部落格">
+  <meta name="image" content="https://a2825818.github.io/images/head.png">
+  <!-- Schema.org for Google -->
+  <meta itemprop="name" content="關於作者 | Eli&#39;s Blog">
+  <meta itemprop="description" content="Eli 關於前端技術，寫作，分享的的部落格">
+  <meta itemprop="image" content="https://a2825818.github.io/images/head.png">
+  <!-- Open Graph general (Facebook, Pinterest & Google+) -->
+  <meta name="og:title" content="關於作者 | Eli&#39;s Blog">
+  <meta name="og:description" content="Eli 關於前端技術，寫作，分享的的部落格">
+  <meta name="og:image" content="https://a2825818.github.io/images/head.png">
+  <meta name="og:url" content="https://a2825818.github.io/">
+  <meta name="og:site_name" content="Eli 關於前端技術，寫作，分享的的部落格">
+  <meta name="og:locale" content="en_TW">
+  <meta name="fb:app_id" content="184314668878905">
+  <meta name="og:type" content="website">
 
   <!-- Global site tag (gtag.js) - Google Analytics -->
 	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-117497943-1"></script>
@@ -19,7 +39,9 @@
 	  gtag('js', new Date());
 
 	  gtag('config', 'UA-117497943-1');
-  	</script>
+  </script>
+
+
   <!-- Facebook Pixel Code -->
   <script>
     !function(f,b,e,v,n,t,s)
@@ -50,9 +72,9 @@
       xfbml      : true,
       version    : 'v2.12'
     });
-      
-    FB.AppEvents.logPageView();   
-      
+
+    FB.AppEvents.logPageView();
+
   };
 
   (function(d, s, id){
@@ -62,6 +84,12 @@
      js.src = "https://connect.facebook.net/en_US/sdk.js";
      fjs.parentNode.insertBefore(js, fjs);
    }(document, 'script', 'facebook-jssdk'));
+
+
+	function onButtonClick() {
+	  // Add this to a button's onclick handler
+	  FB.AppEvents.logEvent("sentFriendRequest");
+	}
 </script>
 
 <div class="Shell">
