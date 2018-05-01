@@ -450,9 +450,16 @@ figure.highlight {
 .highlight > table {
   width: 100%;
 }
-figure.highlight,
-.code,
 code {
+  font-family: Monaco, Menlo, Consolas, 'Microsoft Yahei', monospace;
+  font-size: 13px;
+  margin: auto 5px;
+  background-color: #333;
+  padding: 5px;
+  color: #fff;
+}
+figure.highlight,
+.code {
   font-family: Monaco, Menlo, Consolas, 'Microsoft Yahei', monospace;
   font-size: 13px;
   margin: auto 5px;
@@ -461,8 +468,7 @@ code {
   color: #fff;
 }
 figure.highlight .gutter,
-.code .gutter,
-code .gutter {
+.code .gutter {
   border-right: 2px #eee solid;
   width: 30px;
   text-align: right;
@@ -470,8 +476,7 @@ code .gutter {
   display: none;
 }
 figure.highlight pre,
-.code pre,
-code pre {
+.code pre {
   margin: auto;
   overflow-x: auto;
   font-family: inherit;
