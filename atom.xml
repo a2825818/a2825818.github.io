@@ -65,9 +65,9 @@
     </summary>
     
     
-      <category term="blog" scheme="http://a2825818.github.io/tags/blog/"/>
-    
       <category term="Hexo" scheme="http://a2825818.github.io/tags/Hexo/"/>
+    
+      <category term="blog" scheme="http://a2825818.github.io/tags/blog/"/>
     
   </entry>
   
