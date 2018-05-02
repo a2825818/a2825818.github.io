@@ -32,9 +32,9 @@
       
         <tags>
             
-            <tag> Hexo </tag>
-            
             <tag> blog </tag>
+            
+            <tag> Hexo </tag>
             
         </tags>
       
@@ -64,7 +64,7 @@
       <title>關於作者</title>
       <link href="/about/index.html"/>
       <url>/about/index.html</url>
-      <content type="html"><![CDATA[<h2 id="個人簡介"><a href="#個人簡介" class="headerlink" title="個人簡介"></a>個人簡介</h2><p>從自學程式開始，直到專職工作，撰寫網頁前端約有四年經歷，現在任職在一間小資訊公司當前端工程師。</p><p>Javascript 忽然在幾年前淹沒了世界，前端工程師忽然可以做的事情變多了，我也為此投注了不少技能點數，後來我漸漸專注建構自己的開發環境，好像蓋一棟自己的城堡，才發現寫了幾年程式，直到最近開始有些得心應手之美。</p><p>時間的推移也讓人成長，關心的事情也不同了，比起絢麗的效果，資訊安全、有效管理、提升開發效率這些更來得重要。</p><p>我是個愛深思的人，平常感興趣的有商業策略、文學、妥拉…等等，歡迎交流。</p><h3 id="領域"><a href="#領域" class="headerlink" title="領域"></a>領域</h3><ul><li>HTML / CSS</li><li>Javascript</li><li>Node / NPM</li><li>Vue</li><li>Bootstrap 3</li><li>Webpack</li><li>SCSS</li><li>Git</li></ul><h3 id="聯絡方式"><a href="#聯絡方式" class="headerlink" title="聯絡方式"></a>聯絡方式</h3><p>信箱 ： <a href="mailto:a2825818@gmail.com" target="_blank" rel="noopener">a2825818@gmail.com</a></p>]]></content>
+      <content type="html"><![CDATA[<h2 id="個人簡介"><a href="#個人簡介" class="headerlink" title="個人簡介"></a>個人簡介</h2><p>從自學程式開始，直到專職工作，撰寫網頁前端約有四年經歷，現在任職在一間小資訊公司當前端工程師。</p><p>Javascript 忽然在幾年前淹沒了世界，前端工程師忽然可以做的事情變多了，我也為此投注了不少技能點數，後來我漸漸專注建構自己的開發環境，好像蓋一棟自己的城堡，才發現寫了幾年程式，直到最近開始有些得心應手之美。</p><p>時間的推移也讓人成長，關心的事情也不同了，比起絢麗的效果，資訊安全、有效管理、提升開發效率這些更來得重要。</p><p>我是個愛深思的人，平常感興趣的有商業策略、文學、妥拉…等等，歡迎交流。</p><h3 id="領域"><a href="#領域" class="headerlink" title="領域"></a>領域</h3><ul><li>HTML / CSS</li><li>Javascript</li><li>Node / NPM</li><li>Vue</li><li>Bootstrap 3</li><li>Webpack</li><li>SCSS</li><li>Git</li></ul><h3 id="聯絡方式"><a href="#聯絡方式" class="headerlink" title="聯絡方式"></a>聯絡方式</h3><p>信箱     : <a href="mailto:a2825818@gmail.com" target="_blank" rel="noopener">a2825818@gmail.com</a><br>Github     : <a href="https://github.com/a2825818" target="_blank" rel="noopener">https://github.com/a2825818</a></p>]]></content>
     </entry>
     
   
